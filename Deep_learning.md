@@ -2,7 +2,7 @@
 
 # Keras 
 - Keras로 구현한 딥러닝 : : 
-    - 표준 Keras 딥러닝 코드
+   - 표준 Keras 딥러닝 코드
     - 로스 보기
     - 은닉층과 노드 수
     - trian, test 데이터 분리
