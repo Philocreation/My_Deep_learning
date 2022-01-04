@@ -4,7 +4,7 @@
 
 # Keras 
 
-- Keras로 구현한 딥러닝 : [dnn_in_keras.ipynb](../My_Deep_learning/Dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Philocreation/My_Deep_learning/blob/main/Dnn_in_keras.ipynb)
+- Keras로 구현한 딥러닝 : [dnn_in_keras.ipynb](../My_Deep_learning/Dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Philocreation/My_Deep_learning/blob/main/Dnn_in_keras.ipynb)[dnn_in_keras.ipynb](../My_Deep_learning/Dnn_in_keras(2).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Philocreation/My_Deep_learning/blob/main/DNN_in_keras(2).ipynb)
   - 표준 Keras 딥러닝 코드
   - 로스 보기
   - 은닉층과 노드 수
