@@ -4,7 +4,7 @@
 
 # Keras 
 
-- Keras로 구현한 딥러닝 : : 
+- Keras로 구현한 딥러닝 : https://colab.research.google.com/github/Philocreation/My_Deep_learning/blob/main/Dnn_in_keras.ipynb, 
   - 표준 Keras 딥러닝 코드
   - 로스 보기
   - 은닉층과 노드 수
