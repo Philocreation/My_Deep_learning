@@ -22,9 +22,7 @@
 # Template 
 
 - 속성 데이터 
-  - 예측 : 
-  - 분류 : 
-  - 2진 분류 :   
+  - 예측, 분류, 2진 분류 : [Template_attribute_data.ipynb](../template_attribute_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mOEPsg2wEr6GmdgLxCIUxVuBFstapOuC#scrollTo=0v3w6bDTAaNk)
 - 영상 데이터 
   - 예측 : CNN :
   - 예측 : 전이학습 :
