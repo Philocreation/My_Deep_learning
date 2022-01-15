@@ -9,7 +9,7 @@
 # Numeric_sequence_data_prediction
 - Template
 - kaggle participation
-  - store_sales_forcast : [dnn_in_keras.ipynb](../My_Deep_learning/My kaggle/stroe_sales_forecast(kaggle).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zVCLEtM8eyZvDeTqoc3qVMOClCN9nB3c#scrollTo=ahZQJieU4mm1)
+  - store_sales_forcast : [store_sales_forecast(kaggle).ipynb](../My_Deep_learning/My kaggle/stroe_sales_forecast(kaggle).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zVCLEtM8eyZvDeTqoc3qVMOClCN9nB3c#scrollTo=ahZQJieU4mm1)
   -
 
 
