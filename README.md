@@ -28,4 +28,6 @@
   - Unet을 활용한 영상분할 
   - Mnet을 활용한 영상분할 
 
-- VGG16_face : [Face_Recognition.ipynb](../My_Deep_learning/Face_Recognition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16frRkP0wNxwAUgSBjeZwcxNMorHlV9Ab#scrollTo=NUCJ9XCASiNo)
+- 기타 
+  - VGG16_face : [Face_Recognition.ipynb](../My_Deep_learning/Face_Recognition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16frRkP0wNxwAUgSBjeZwcxNMorHlV9Ab#scrollTo=NUCJ9XCASiNo)
+  - darknet_yolov3_face : [darknet_yolov3_face.ipynb](../My_Deep_learning//Template/darknet_yolov3_face.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Philocreation/My_Deep_learning/blob/main/Template/darknet_yolov3_face.ipynb#scrollTo=G6JZVblKzlI8)
