@@ -2,20 +2,16 @@
 
 # Keras 
 
-- Keras로 구현한 딥러닝 : [dnn_in_keras.ipynb](../My_Deep_learning/Dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Philocreation/My_Deep_learning/blob/main/Dnn_in_keras.ipynb)[dnn_in_keras(2).ipynb](../My_Deep_learning/Dnn_in_keras(2).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Philocreation/My_Deep_learning/blob/main/DNN_in_keras(2).ipynb)
-  - 표준 Keras 딥러닝 코드
-  - 로스 보기
-  - 은닉층과 노드 수
-  - trian, test 데이터 분리
-  - batch size와 학습
-  - 데이터 수와 학습
-  - 모델 저장과 로딩
-  - 학습되지 않는 랜덤 함수
-  - Optimizer
-  - 다양한 입출력
+- Keras 기본 구조 : [dnn_in_keras.ipynb](../My_Deep_learning/Dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Philocreation/My_Deep_learning/blob/main/Dnn_in_keras.ipynb)[dnn_in_keras(2).ipynb](../My_Deep_learning/Dnn_in_keras(2).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Philocreation/My_Deep_learning/blob/main/DNN_in_keras(2).ipynb)
+  
+  
+  
+# Numeric_sequence_data_prediction
+- Template
+- kaggle participation
+  - store_sales_forcast : [![Open In Colab](https://colab.research.google.com/drive/1zVCLEtM8eyZvDeTqoc3qVMOClCN9nB3c#scrollTo=ahZQJieU4mm1)]
+  -
 
-- overfitting 처리 :
-- callback :
 
 # Template 
 
